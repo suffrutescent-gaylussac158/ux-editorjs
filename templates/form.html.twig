@@ -1,0 +1,24 @@
+{% block editorjs_widget %}
+    {%- set controller_name = (attr['data-controller']|default('') ~ ' makraz--ux-editorjs--editorjs')|trim -%}
+    {% set data_set = "data-makraz--ux-editorjs--editorjs" %}
+
+    <div class="editorjs-container"
+         data-controller="{{ controller_name }}"
+         {{ data_set }}-tools-value="{{ attr['data-tools'] }}"
+         {{ data_set }}-extra-options-value="{{ attr['data-extra-options'] }}"
+         {{ data_set }}-tunes-value="{{ attr['data-tunes']|default('[]') }}"
+    >
+        <div data-live-ignore>
+            <input type="hidden"
+                   value="{{ value }}"
+                    {{ block('widget_attributes') }}
+                   {{ data_set }}-target="input"
+            >
+
+            <div class="editorjs-editor"
+                 {{ data_set }}-target="editorContainer"
+            >
+            </div>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,72 @@
+{
+    "name": "makraz/ux-editorjs",
+    "type": "symfony-bundle",
+    "description": "Symfony UX Bundle to use Editor.js block-style editor with full and easy customisation",
+    "keywords": [
+        "symfony-ux",
+        "symfony ux",
+        "symfony form",
+        "symfony wysiwyg",
+        "symfony editorjs",
+        "symfony ux bundle",
+        "editorjs",
+        "editor.js",
+        "block editor",
+        "easyadmin",
+        "easyadmin wysiwyg"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hamza Makraz",
+            "homepage": "https://github.com/makraz"
+        }
+    ],
+    "homepage": "https://github.com/makraz/ux-editorjs",
+    "support": {
+        "issues": "https://github.com/makraz/ux-editorjs/issues",
+        "source": "https://github.com/makraz/ux-editorjs"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.1.0",
+        "symfony/stimulus-bundle": "^2.9.1",
+        "symfony/twig-bundle": "^6.4|^7.0|^8.0",
+        "symfony/form": "^6.4|^7.0|^8.0",
+        "symfony/routing": "^6.4|^7.0|^8.0",
+        "symfony/string": "^6.4|^7.0|^8.0"
+    },
+    "suggest": {
+        "league/flysystem-bundle": "Required for Flysystem upload handler support"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5|^10.0|^11.0",
+        "friendsofphp/php-cs-fixer": "^3.1",
+        "symfony/browser-kit": "^6.4|^7.0|^8.0",
+        "symfony/framework-bundle": "^6.4|^7.0|^8.0",
+        "symfony/asset-mapper": "^6.4|^7.0|^8.0",
+        "easycorp/easyadmin-bundle": "^4.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Makraz\\EditorjsBundle\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Makraz\\EditorjsBundle\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "symfony/flex": true
+        }
+    },
+    "extra": {
+        "thanks": {
+            "name": "symfony/ux",
+            "url": "https://github.com/symfony/ux"
+        }
+    }
+}
